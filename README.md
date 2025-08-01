@@ -32,13 +32,11 @@ python-dotenv (config/secrets management)
 
 ⚡ Quickstart
 1. Clone
-git clone https://github.com/yourusername/medical-symptom-checker.git
-cd medical-symptom-checker
 
-3. Install Dependencies
+2. Install Dependencies
 pip install -r requirements.txt
 
-5. Set Up OpenAI API Key
+3. Set Up OpenAI API Key
 Create a .env file in the project root:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
 
